@@ -1,0 +1,8 @@
+Karina Tiurina
+https://github.com/KarinaTiurina/community_detection
+D1-K=2.xlsx,0.804s
+D1-UNC.xlsx,81.9454s
+D2-K=7.xlsx,6.8278s
+D2-UNC.xlsx,138.2532s
+D3-K=12.xlsx,47.5732s
+D3-UNC.xlsx,11.9733s
